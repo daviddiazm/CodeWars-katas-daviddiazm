@@ -20,7 +20,6 @@ console.log('',seaSick("______~___~_"));
 
 /////////////////////// SOLUCIONES QUE ME GUSTARION
 
-/////////////////////// SOLUCIONES QUE ME GUSTARION
 function seaSick(x){
   var count = 0;
   
